@@ -4,7 +4,7 @@ export const profile = {
   initials: "SA",
   role: "Computer Science Student | Aspiring Full-Stack Developer",
   location: "Tamil Nadu, India",
-  email: "YOUR_EMAIL@example.com",
+  email: "sasiananth5044@gmail.com",
   intro: "I am a Computer Science and Engineering student interested in building useful web applications and learning modern software development technologies.",
   about: "I am pursuing B.E. Computer Science and Engineering at Nehru Institute of Engineering and Technology. I enjoy learning programming, solving problems and developing practical projects. I am currently strengthening my full-stack development skills.",
   github: "https://github.com/YOUR_GITHUB_USERNAME",
